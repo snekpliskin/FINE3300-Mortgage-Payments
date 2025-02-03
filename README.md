@@ -1,2 +1,2 @@
 # FINE3300-Mortgage-Payments
-This project will calculate your mortgage
+This program calculated mortgage payments, by using the loan principal, interest rate and loan term.
